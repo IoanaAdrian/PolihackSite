@@ -3,7 +3,12 @@
     background-repeat: no-repeat;
     background-size:100%;
 } */
-
+.svghv{
+	background-color: #ffffff;
+}
+.svghv:hover{
+	background-color: green;
+}
 .khoo:hover{
 	cursor: pointer;
 	background-color: rgba(255,0,0,0.3);
